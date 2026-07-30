@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+artifacts/
+publish/
+
+# IDE and user settings
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local packages and generated binaries
+packages/
+*.exe
+*.dll
+*.pdb
+
+# QueenWrite local documents and recovery data
+Testdokumenter/
+Prototyper/
+Recovery/
+*.autosave
+*.recovery
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
